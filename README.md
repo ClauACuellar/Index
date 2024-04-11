@@ -1,2 +1,4 @@
 # Index
 BootCampDatos_AluraLatam
+#aluraChallengeRobotTrading
+https://cdn.discordapp.com/attachments/1226249744960196648/1226973461696614410/challenge_1.png?ex=6626b715&is=66144215&hm=9ab1ed47bf00bbf5450435dcb7d8ee452ca301da66183805e696fae7a8087e5e&
